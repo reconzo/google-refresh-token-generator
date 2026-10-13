@@ -12,5 +12,18 @@
   },
   "devDependencies": {
     "dotenv": "^17.2.1"
+  },
+  "overrides": {
+    "@tootallnate/once": "2.0.1",
+    "ajv": "8.18.0",
+    "body-parser": "1.20.6",
+    "fast-uri": "3.1.8",
+    "fast-xml-parser": "5.7.0",
+    "form-data": "2.5.6",
+    "jws": "4.0.1",
+    "path-to-regexp": "0.1.13",
+    "proxy-addr": "2.0.8",
+    "qs": "6.16.0",
+    "uuid": "11.1.1"
   }
 }
